@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renalka
-- 👀 I’m interested in Data Science, Analytics and Machine Learning.
-- 🌱 I’m currently learning how we can use Microsoft Azure and other cloud platforms like AWS for various data science and ML problems.
-- 💞️ I’m looking to collaborate on anything python really!
+- 👀 I’m pursuing a Master's degree in Computer Science at University of Illinois Urbana-Champaign.
+- 🌱 I’m currently learning how we can use deep learning for various problems in the healthcare domain.
+- 💞️ I’m looking to collaborate on anything related to API development, cloud computing, databases or data science!
 
 <!---
 Renalka/Renalka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
