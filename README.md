@@ -1,5 +1,5 @@
 # About Me:
-I am a Software Engineer specializing in building the scalable backends, API integrations, and AI-driven pipelines that turn messy data into production-ready intelligence.<br><br>I hold a Master's degree in Computer Science from University of Illinois Urbana-Champaign and have 3+ years of experience building high-stakes automation for global enterprises
+I am a Software Engineer specializing in building the scalable backends, API integrations, and AI-driven pipelines that turn messy data into production-ready intelligence.<br><br>I hold a Master's degree in Computer Science from University of Illinois Urbana-Champaign and have 3+ years of experience building high-stakes automation for global enterprises.
 
 
 ### Socials:
