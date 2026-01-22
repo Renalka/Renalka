@@ -41,8 +41,8 @@
 ### Git Activity
 
 ![](https://nirzak-streak-stats.vercel.app/?user=renalka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renalka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=renalka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 <!--
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=renalka&theme=react-dark&hide_border=true&area=true" width="41%" />
