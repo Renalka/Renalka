@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;AI+Pipeline+Specialist;MCS+@+UIUC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=MCS+@+UIUC;Software+Engineer;Backend+Developer;Applied+AI" alt="Typing SVG" />
 </div>
 
 # 👋 Hello, I'm Renalka
